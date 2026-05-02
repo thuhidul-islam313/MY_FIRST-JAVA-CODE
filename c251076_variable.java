@@ -6,7 +6,7 @@ public class c251076_variable {
         System.out.println("full name :" + fullname);
 
         int id= 251076;
-        System.out.println("id"+id);
+        System.out.println("id :" + id);
         
     }
 }
